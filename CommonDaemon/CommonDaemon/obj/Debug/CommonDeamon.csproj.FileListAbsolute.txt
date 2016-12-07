@@ -1,0 +1,6 @@
+c:\users\kuyu\documents\visual studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe.config
+c:\users\kuyu\documents\visual studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe
+c:\users\kuyu\documents\visual studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.pdb
+c:\users\kuyu\documents\visual studio 2015\Projects\CommonDeamon\CommonDeamon\obj\Debug\CommonDeamon.exe
+c:\users\kuyu\documents\visual studio 2015\Projects\CommonDeamon\CommonDeamon\obj\Debug\CommonDeamon.pdb
+c:\users\kuyu\documents\visual studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\App.config

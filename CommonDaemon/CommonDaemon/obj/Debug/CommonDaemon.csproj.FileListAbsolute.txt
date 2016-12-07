@@ -1,0 +1,9 @@
+c:\users\kuyu\documents\visual studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDaemon.exe.config
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe.config
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\App.config
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.pdb
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.exe
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.pdb
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.ProjectInstaller.resources
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.csproj.GenerateResource.Cache

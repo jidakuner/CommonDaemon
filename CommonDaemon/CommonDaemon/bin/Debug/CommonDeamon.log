@@ -1,0 +1,8 @@
+[12/7/2016 11:32:35 AM]	[LOG]	C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe -i
+[12/7/2016 11:33:47 AM]	[LOG]	c:\users\kuyu\documents\visual studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.vshost.exe -i
+[12/7/2016 12:17:34 PM]	[LOG]	Start service: "C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe"
+[12/7/2016 12:22:20 PM]	[LOG]	Start service: "C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe"
+[12/7/2016 12:25:53 PM]	[LOG]	Clone service: "C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe"
+[12/7/2016 12:29:24 PM]	[LOG]	Install service: "C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe"
+[12/7/2016 12:40:20 PM]	[LOG]	Install service: "C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe"
+[12/7/2016 12:44:56 PM]	[LOG]	Install service: "C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDeamon\CommonDeamon\bin\Debug\CommonDeamon.exe"

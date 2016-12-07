@@ -1,0 +1,8 @@
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Release\CommonDaemon.exe.config
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Release\App.config
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Release\CommonDaemon.exe
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Release\CommonDaemon.pdb
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Release\CommonDaemon.exe
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Release\CommonDaemon.pdb
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Release\CommonDaemon.csproj.GenerateResource.Cache
+C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Release\CommonDaemon.ProjectInstaller.resources

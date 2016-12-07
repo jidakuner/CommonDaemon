@@ -1,0 +1,35 @@
+﻿Uninstalling assembly 'C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.InstallLog
+   assemblypath = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe
+Removing EventLog source CommonDaemon.
+Service CommonDaemon is being removed from the system...
+Service CommonDaemon was successfully removed from the system.
+Attempt to stop service CommonDaemon.
+Installing assembly 'C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.InstallLog
+   assemblypath = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe
+Installing service CommonDaemon...
+Creating EventLog source CommonDaemon in log Application...
+Rolling back assembly 'C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.InstallLog
+   assemblypath = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe
+Restoring event log to previous state for source CommonDaemon.
+Installing assembly 'C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.InstallLog
+   assemblypath = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe
+Installing service CommonDaemon...
+Creating EventLog source CommonDaemon in log Application...
+Rolling back assembly 'C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.InstallLog
+   assemblypath = C:\Users\kuyu\Documents\Visual Studio 2015\Projects\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe
+Restoring event log to previous state for source CommonDaemon.
