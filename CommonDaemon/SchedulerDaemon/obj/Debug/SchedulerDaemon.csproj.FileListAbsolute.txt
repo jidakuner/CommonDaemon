@@ -1,0 +1,5 @@
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\bin\Debug\SchedulerDaemon.exe.config
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\bin\Debug\SchedulerDaemon.exe
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\bin\Debug\SchedulerDaemon.pdb
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\obj\Debug\SchedulerDaemon.exe
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\obj\Debug\SchedulerDaemon.pdb

@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO;
-using System.Reflection;
 
-namespace CommonDaemon
+namespace SchedulerDaemon
 {
     public static class Logger
     {
-        public static string LogPath = string.Format("{0}{1}", Assembly.GetExecutingAssembly().Location, ".log");
+        public static string LogPath = string.Format("{0}{1}", Assembly.GetExecutingAssembly().Location,  ".log");
 
         public static void AppendLogForLog(string message, params string[] param)
         {

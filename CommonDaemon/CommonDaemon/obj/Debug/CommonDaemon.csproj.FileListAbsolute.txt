@@ -7,3 +7,9 @@ C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\ob
 C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.pdb
 C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.ProjectInstaller.resources
 C:\Users\kuyu\Documents\visual studio 2015\Projects\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.csproj.GenerateResource.Cache
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\CommonDaemon\bin\Debug\CommonDaemon.exe.config
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.exe
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.pdb
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.csprojResolveAssemblyReference.cache
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.ProjectInstaller.resources
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\CommonDaemon\obj\Debug\CommonDaemon.csproj.GenerateResource.Cache
