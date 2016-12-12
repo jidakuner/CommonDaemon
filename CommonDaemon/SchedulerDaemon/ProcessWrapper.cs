@@ -110,7 +110,7 @@ namespace SchedulerDaemon
 
         public void Close()
         {
-            if (this.Process != null)
+            if (this.Process != null && !this.Process.HasExited)
             {
                 try
                 {
@@ -126,24 +126,8 @@ namespace SchedulerDaemon
             }
         }
 
-        public bool IsActive()
-        {
-            string url = "http://localhost:9200/";
-            if (this.Tag.Equals("ElasticSearch", StringComparison.CurrentCultureIgnoreCase))
-            {
-                url = "http://localhost:9200/";
-
-            }
-            else if (this.Tag.Equals("Kibana", StringComparison.CurrentCultureIgnoreCase))
-
-            {
-                url = "http://localhost:5601/";
-            }
-            else
-            {
-                throw new ArgumentException("Don't support this service: {0}", this.Tag);
-            }
-            
+        public bool IsActive( string url)
+        {            
             try
             {
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
@@ -151,12 +135,11 @@ namespace SchedulerDaemon
 
                 return response.StatusCode == HttpStatusCode.OK;
             }
-            catch
+            catch(Exception e)
             {
+                Logger.AppendLogForError("Cannot get IsActive of process \"{0}\", because \"{1}\"", this.FileName, e.Message);
                 return false;
             }
-
-            
         }
     }
 }

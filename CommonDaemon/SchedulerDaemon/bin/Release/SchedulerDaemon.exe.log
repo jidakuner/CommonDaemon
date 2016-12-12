@@ -1,0 +1,4 @@
+[12/12/2016 12:26:19 PM]	[ERR]	Cannot get IsActive of process "D:\ELK\Src\elasticsearch-2.4.1\elasticsearch-2.4.1\bin\elasticsearch.bat", because "Invalid URI: The URI is empty."
+[12/12/2016 12:26:19 PM]	[LOG]	Servie "ElasticSearch" have been started.
+[12/12/2016 12:26:19 PM]	[ERR]	Cannot get IsActive of process "D:\ELK\Src\kibana-4.6.3-windows-x86\kibana-4.6.3-windows-x86\bin\kibana.bat", because "Invalid URI: The URI is empty."
+[12/12/2016 12:26:19 PM]	[LOG]	Servie "Kibana" have been started.

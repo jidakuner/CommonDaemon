@@ -1,0 +1,5 @@
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\bin\Release\SchedulerDaemon.exe.config
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\bin\Release\SchedulerDaemon.exe
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\bin\Release\SchedulerDaemon.pdb
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\obj\Release\SchedulerDaemon.exe
+C:\Users\kuyu\Git\CommonDaemon\CommonDaemon\SchedulerDaemon\obj\Release\SchedulerDaemon.pdb
